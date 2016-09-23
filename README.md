@@ -1,2 +1,0 @@
-# PeopleSearchApplication
-People Details
